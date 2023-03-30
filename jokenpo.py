@@ -1,5 +1,3 @@
-#30/03/2023
-
 from random import randint #Deixar o código randomico
 from time import sleep #Marcador de tempo para as strings JO KEN PO
 
