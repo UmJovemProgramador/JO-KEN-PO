@@ -19,12 +19,6 @@ print('kEN')
 sleep(0.5)
 print('PO')
 
-if jogador != itens:
-    print('Jogada inválida! ⚠️')
-
-elif jogador < 0:
-    print('Jogada inválida! ⚠️')
-
 print('-=' * 14)
 print('você jogou {}'.format(itens[jogador]))
 print('Computador jogou {}'.format(itens[computador]))
